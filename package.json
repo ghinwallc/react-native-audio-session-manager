@@ -1,6 +1,6 @@
 {
   "name": "@ghinwa/react-native-audio-session-manager",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "",
   "main": "main.js",
   "scripts": {
